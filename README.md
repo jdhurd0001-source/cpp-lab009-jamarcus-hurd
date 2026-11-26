@@ -56,5 +56,6 @@ Students must submit:
 - memory-safe implementation;
 - clean formatting and modular design.
 
-## Important note
-The starter project intentionally contains function stubs and tests that fail until the student completes the implementation. This is by design so the lab is a rigorous programming assignment rather than a solved example.
+## Submission status
+
+The max-heap implementation and unit-test suite are complete. The heap preserves the max-heap invariant after construction, insertion, and removal, and heap sort does not modify the original heap.
